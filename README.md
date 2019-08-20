@@ -1,8 +1,7 @@
 # GDMap-Marker
 # Android高德地图中根据缩放级别显示Marker
-给大家分享三种清除地图Marker的方式，后面还有完整的例子哦~
-
 效果图如下：
+
 ![隐蔽marker](https://img-blog.csdnimg.cn/20190820153615949.gif)
 **方法一：清除地图上所有的Marker** 
 说明：这种方式清除marker可能会出现设置了icons模拟gif动画的marker显示不了，这时候就需要用第二种方法了。
