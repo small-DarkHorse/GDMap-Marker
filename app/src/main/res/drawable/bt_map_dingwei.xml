@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    4     <!-- 本xml名：button_select.xml, 设置按钮按下去的效果，实际上就是不同的图片 -->
+    5     <item android:drawable="@drawable/bt_map_location_loose" android:state_pressed="false"></item>
+    6     <item android:drawable="@drawable/bt_map_location_press" android:state_pressed="true"></item>
+    7
+</selector>
